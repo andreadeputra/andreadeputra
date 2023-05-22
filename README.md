@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @andreadeputra
-- 👀 I’m interested in game dev and music
-- 🌱 I’m currently learning python as my first language
-- 💞️ I’m looking to collaborate on anything to help my practice from scratch
+- 👋 Hi, I’m Andre Adeputra Sugianta
+- 👀 I like games and music, but now I'm looking into data industry
+- 🌱 I’m currently learning Data Science from a bootcamp hosted by Rakamin Academy
+- 💞️ I’m looking to learn from other people's repositories first for now
 - 📫 Reach me at TBA 
 
 <!---
